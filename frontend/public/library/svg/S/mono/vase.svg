@@ -1,0 +1,33 @@
+<svg width="460" height="580" viewBox="0 0 460 580" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cast Shadow -->
+  <path d="M230 520 C290 520 370 500 370 470 C370 445 300 440 240 440 C180 440 160 455 160 475 C160 505 180 520 230 520 Z" fill="#6D7BFC" opacity="0.4"/>
+  
+  <!-- Vase Body -->
+  <path d="M230 495 C175 495 140 440 140 380 C140 325 180 290 195 240 L195 210 L265 210 L265 240 C280 290 320 325 320 380 C320 440 285 495 230 495 Z" fill="#D7CDF5" stroke="#7864D7" stroke-width="12" stroke-linejoin="round"/>
+  <!-- Vase Rim -->
+  <ellipse cx="230" cy="210" rx="35" ry="12" fill="#C2B3F0" stroke="#7864D7" stroke-width="12"/>
+
+  <!-- Stems -->
+  <path d="M220 210 Q200 150 170 90" stroke="#7864D7" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M228 210 Q225 140 210 70" stroke="#7864D7" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M235 210 Q245 130 255 60" stroke="#7864D7" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M240 210 Q265 145 295 80" stroke="#7864D7" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M245 210 Q290 160 340 120" stroke="#7864D7" stroke-width="10" stroke-linecap="round" fill="none"/>
+
+  <!-- Tulips Mono -->
+  <g transform="translate(130, 40)">
+    <path d="M40 80 C10 65 0 35 15 10 C25 25 35 30 40 40 C45 30 55 25 65 10 C80 35 70 65 40 80 Z" fill="#D7CDF5" stroke="#7864D7" stroke-width="10" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(180, 20)">
+    <path d="M35 75 C10 60 5 30 20 5 C30 20 35 25 35 35 C35 25 45 20 55 5 C70 30 65 60 35 75 Z" fill="#D7CDF5" stroke="#7864D7" stroke-width="10" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(230, 10)">
+    <path d="M35 80 C10 65 5 35 20 10 C30 25 35 30 35 40 C35 30 45 25 55 10 C70 35 65 65 35 80 Z" fill="#D7CDF5" stroke="#7864D7" stroke-width="10" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(270, 30)">
+    <path d="M35 75 C10 60 5 30 20 5 C30 20 35 25 35 35 C35 25 45 20 55 5 C70 30 65 60 35 75 Z" fill="#D7CDF5" stroke="#7864D7" stroke-width="10" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(315, 70)">
+    <path d="M35 70 C10 55 5 25 20 5 C30 20 35 25 35 35 C35 25 45 20 55 5 C70 25 65 55 35 70 Z" fill="#D7CDF5" stroke="#7864D7" stroke-width="10" stroke-linejoin="round"/>
+  </g>
+</svg>

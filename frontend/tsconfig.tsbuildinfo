@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/api/client.ts","./src/services/fabricService.ts","./src/types/index.ts","./src/App.vue","./src/components/AIComposerTab.vue","./src/components/CanvasArea.vue","./src/components/CatalogTab.vue","./src/components/Header.vue","./src/components/PalettesTab.vue","./src/components/Sidebar.vue","./src/components/TemplatesTab.vue"],"version":"5.6.3"}
